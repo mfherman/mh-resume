@@ -26,7 +26,6 @@ urlcolor: black
 ---
 
 # EDUCATION
-
 **City University of New York, Hunter College** \hfill New York, NY \newline
 Master of Science in Applied Social Research \hfill May 2018 
 
@@ -34,7 +33,6 @@ Master of Science in Applied Social Research \hfill May 2018
 Bachelor of Arts in American Studies \hfill May 2006  
 
 # EXPERIENCE
-
 **Center for Innovation through Data Intelligence, Office of the Mayor** \hfill New York, NY  
 *Research Intern* \hfill June 2017 -- present
 
@@ -44,7 +42,7 @@ Bachelor of Arts in American Studies \hfill May 2006
 **Mapping the Solidarity Economy Project, Professor Marianna Pavlovskaya** \hfill New York, NY  
 *Research Assistant* \hfill February 2018 -- present
 
-- Download, clean, and anaylze financial data from the National Credit Union Administration
+- Download, clean, and analyze financial data from the National Credit Union Administration
 - Build maps and perform spatial analysis of cooperative businesses
 
 **Ends Meat** \hfill Brooklyn, NY  
