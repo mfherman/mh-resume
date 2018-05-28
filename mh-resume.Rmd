@@ -1,0 +1,81 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: mh-latex-cv.tex
+geometry: margin = 0.65in
+
+title: "Resume"
+author: Matt Herman
+# jobtitle: "Chief Brewer, Arthur Guinness & Son"
+address: "91 Kingsland Avenue #3 · Brooklyn, NY 11222"
+fontawesome: yes
+email: mfherman@gmail.com
+# github: mfherman
+phone: "917-374-1939"
+web: mattherman.info
+updated: no
+
+# keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: black
+urlcolor: black
+---
+
+# EDUCATION
+
+**City University of New York, Hunter College** \hfill New York, NY \newline
+Master of Science in Applied Social Research \hfill May 2018 
+
+**Columbia University, Columbia College** \hfill New York, NY \newline
+Bachelor of Arts in American Studies \hfill May 2006  
+
+# EXPERIENCE
+
+**Center for Innovation through Data Intelligence, Office of the Mayor** \hfill New York, NY  
+*Research Intern* \hfill June 2017 -- present
+
+- Develop predictive model to identify individuals at risk of becoming homeless using natural language processing and machine learning tools
+- Match individual-level data across multiple NYC administrative databases
+
+**Mapping the Solidarity Economy Project, Professor Marianna Pavlovskaya** \hfill New York, NY  
+*Research Assistant* \hfill February 2018 -- present
+
+- Download, clean, and anaylze financial data from the National Credit Union Administration
+- Build maps and perform spatial analysis of cooperative businesses
+
+**Ends Meat** \hfill Brooklyn, NY  
+*Director of Operations* \hfill March 2015 -- present
+
+- Develop financial, regulatory, and management systems for butcher shop/salumeria
+- Create short, medium, and long-term business model and budgets
+
+**Measure of America** \hfill Brooklyn, NY  
+*Data Analysis Intern* \hfill Jan 2017 -- June 2017
+
+- Obtained, cleaned, and analyzed large public datasets including the American Community Survey
+- Created maps, graphs, and charts of demographic, economic, and health indicators
+
+<!-- **Religion and Society Study** \hfill Lusaka, Zambia   -->
+<!-- *Research Coordinator* \hfill June 2016 -- Aug 2016 -->
+
+<!-- -	Built partnerships with and documented political activities of key church groups -->
+<!-- -	Conducted interviews with religious and civil society leaders -->
+<!-- -	Acquired data from Zambian government agencies related to religious organizations -->
+
+**StoryCorps** \hfill Brooklyn, NY  
+*Door-to-Door Facilitator* \hfill Nov 2008 -- Sept 2011  
+
+- Helped people record the stories of their lives for one of the largest American oral history projects
+- Collected, processed, and archived interview materials to be cataloged by the Library of Congress, including audio files, photographs, and demographic data
+
+*Development Associate* \hfill May 2007 -- Nov 2008
+
+-	Managed individual giving programs through targeted communications
+-	Prepared grant proposals and reports for foundation and government funders
+
+# SKILLS
+Proficient with R, ArcGIS; Familiar with machine learning, statistical modeling, natural language processing, SQL, QGIS, Stata, SPSS, Git/GitHub, cloud-based databases; Conversational Spanish
