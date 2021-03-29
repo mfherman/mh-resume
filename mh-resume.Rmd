@@ -29,27 +29,23 @@ urlcolor: black
 **City University of New York, Hunter College** \hfill New York, NY \newline
 Master of Science in Applied Social Research \hfill May 2018 
 
-**Columbia University, Columbia College** \hfill New York, NY
-\newline
+**Columbia University, Columbia College** \hfill New York, NY \newline
 Bachelor of Arts in American Studies \hfill May 2006  
 
 # EXPERIENCE
 **NYC Administration for Children’s Services** \hfill New York, NY  
-*Deputy Director, ChildStat Data* \hfill March 2020 -- present
+*Deputy Director, ChildStat Data* \hfill March 2020 -- present  
+*Senior Analyst, ChildStat Data* \hfill January 2019 -- March 2020  
 
-- Build Covid-19 "Early Alert Dashboard" to track week-to-week changes in child protection metrics
+- Generate outcome measures and performance indicators for child welfare casework from administrative databases
+- Develop an automated and reproducible workflow using R and SQL to query databases, aggregate and summarize metrics, and create HTML and PDF dashboards, reports, and presentations
+- Collaborate with managers of frontline child protection staff to interpret data in order to create actionable quality improvement plans and assess the impact of these plans
+<!-- - Build Covid-19 "Early Alert Dashboard" to track week-to-week changes in child protection metrics -->
 - Create internal R package with functions to support analysis including address geocoding, database connections, common data aggregations, and ggplot2 themes and palettes
 - Manage two analysts and support their work product and professional development by conducting frequent code review and teaching R classes
 
-*Senior Analyst, ChildStat Data* \hfill January 2019 -- March 2020
-
-- Generate outcome measures and performance indicators for investigations of child abuse and neglect from internal administrative databases
-- Develop an automated and reproducible workflow using R and SQL to query databases, aggregate and summarize metrics, and create HTML and PDF dashboards, reports, and presentations
-- Collaborate with managers of frontline child protection staff to interpret data in order to create actionable quality improvement plans and assess the impact of these plans
-
-
 **Center for Innovation through Data Intelligence, Office of the Mayor** \hfill New York, NY  
-*Research Intern* \hfill June 2017 -- present
+*Research Intern* \hfill June 2017 -- May 2018
 
 - Developed predictive model to identify individuals at risk of becoming homeless using natural language processing and machine learning tools
 - Matched individual-level data across multiple NYC administrative databases
@@ -66,11 +62,11 @@ Bachelor of Arts in American Studies \hfill May 2006
 <!-- - Develop financial, regulatory, and management systems for butcher shop/salumeria -->
 <!-- - Create short, medium, and long-term business model and budgets -->
 
-<!-- **Measure of America** \hfill Brooklyn, NY   -->
-<!-- *Data Analysis Intern* \hfill Jan 2017 -- June 2017 -->
+**Measure of America** \hfill Brooklyn, NY  
+*Data Analysis Intern* \hfill Jan 2017 -- June 2017
 
-<!-- - Obtained, cleaned, and analyzed large public datasets including the American Community Survey -->
-<!-- - Created maps, graphs, and charts of demographic, economic, and health indicators -->
+- Obtained, cleaned, and analyzed large public datasets including the American Community Survey
+- Created maps, graphs, and charts of demographic, economic, and health indicators
 
 <!-- **Religion and Society Study** \hfill Lusaka, Zambia   -->
 <!-- *Research Coordinator* \hfill June 2016 -- Aug 2016 -->
@@ -81,13 +77,10 @@ Bachelor of Arts in American Studies \hfill May 2006
 
 **StoryCorps** \hfill Brooklyn, NY  
 *Door-to-Door Facilitator* \hfill Nov 2008 -- Sept 2011  
-
-- Helped people record the stories of their lives for one of the largest American oral history projects
-- Collected, processed, and archived interview materials to be cataloged by the Library of Congress, including audio files, photographs, and demographic data
-
 *Development Associate* \hfill May 2007 -- Nov 2008
 
--	Managed individual giving programs through targeted communications
+- Helped people record the stories of their lives for one of the largest American oral history projects
+- Collected, processed, and archived interview materials to be cataloged by the Library of Congress
 -	Prepared grant proposals and reports for foundation and government funders
 
 # OPEN SOURCE CONTRIBUTIONS
@@ -95,5 +88,5 @@ Bachelor of Arts in American Studies \hfill May 2006
 - Creator of [**nycgeo**](https://nycgeo.mattherman.info/) R package, containing spatial data files for geographic and administrative boundaries in NYC
 - Creator of [**Covid-19 tracking site for Westchester County**](https://westchester-covid.mattherman.info/), including maps, charts, and tables highlighting cases, testing, and fatality trends by county; per capita case counts and trends at the municipal-level; racial disparities in Covid-19 deaths and cases; cases in schools and nursing homes; and hospital capacity
 
-# SKILLS
-Proficient with R, SQL, Git/GitHub, ArcGIS, machine learning, statistical modeling, natural language processing
+# SKILLS AND TOOLS
+Data wrangling, aggregation, and modeling with R and SQL; Visualization and communication with ggplot2, R Markdown, and Plotly; Mapping with Leaflet, Mapbox, and ArcGIS; Collaboration with Git and GitHub
