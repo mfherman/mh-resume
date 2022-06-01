@@ -33,16 +33,24 @@ Master of Science in Applied Social Research \hfill May 2018
 Bachelor of Arts in American Studies \hfill May 2006  
 
 # EXPERIENCE
+**Council of State Governments Justice Center** \hfill New York, NY  
+*Data Scientist, Research Division* \hfill July 2022 -- present  
+
+- Gather and clean criminal justice data from partner agencies and public sources
+- Analyze and model data to generate insights using the R programming language
+- Build interactive and static data visualizations to communicate results of quantitative analyses
+- Collaborate with CSG State Initiatives Division to develop policy recommendations
+
 **NYC Administration for Children’s Services** \hfill New York, NY  
-*Deputy Director, ChildStat Data* \hfill March 2020 -- present  
+*Deputy Director, ChildStat Data* \hfill March 2020 -- July 2022  
 *Senior Analyst, ChildStat Data* \hfill January 2019 -- March 2020  
 
-- Generate outcome measures and performance indicators for child welfare casework from administrative databases
-- Develop an automated and reproducible workflow using R and SQL to query databases, aggregate and summarize metrics, and create HTML and PDF dashboards, reports, and presentations
-- Collaborate with managers of frontline child protection staff to interpret data in order to create actionable quality improvement plans and assess the impact of these plans
+- Generated outcome measures and performance indicators for child welfare casework from administrative databases
+- Developed an automated and reproducible workflow using R and SQL to query databases, aggregate and summarize metrics, and create HTML and PDF dashboards, reports, and presentations
+- Collaborated with managers of frontline child protection staff to interpret data in order to create actionable quality improvement plans and assess the impact of these plans
 <!-- - Build Covid-19 "Early Alert Dashboard" to track week-to-week changes in child protection metrics -->
-- Create internal R package with functions to support analysis including address geocoding, database connections, common data aggregations, and ggplot2 themes and palettes
-- Manage two analysts and support their work product and professional development by conducting frequent code review and teaching R classes
+<!-- - Create internal R package with functions to support analysis including address geocoding, database connections, common data aggregations, and ggplot2 themes and palettes -->
+<!-- - Manage two analysts and support their work product and professional development by conducting frequent code review and teaching R classes -->
 
 **Center for Innovation through Data Intelligence, Office of the Mayor** \hfill New York, NY  
 *Research Intern* \hfill June 2017 -- May 2018
@@ -62,11 +70,11 @@ Bachelor of Arts in American Studies \hfill May 2006
 <!-- - Develop financial, regulatory, and management systems for butcher shop/salumeria -->
 <!-- - Create short, medium, and long-term business model and budgets -->
 
-**Measure of America** \hfill Brooklyn, NY  
-*Data Analysis Intern* \hfill Jan 2017 -- June 2017
+<!-- **Measure of America** \hfill Brooklyn, NY   -->
+<!-- *Data Analysis Intern* \hfill Jan 2017 -- June 2017 -->
 
-- Obtained, cleaned, and analyzed large public datasets including the American Community Survey
-- Created maps, graphs, and charts of demographic, economic, and health indicators
+<!-- - Obtained, cleaned, and analyzed large public datasets including the American Community Survey -->
+<!-- - Created maps, graphs, and charts of demographic, economic, and health indicators -->
 
 <!-- **Religion and Society Study** \hfill Lusaka, Zambia   -->
 <!-- *Research Coordinator* \hfill June 2016 -- Aug 2016 -->
