@@ -8,7 +8,7 @@ geometry: margin = 0.55in
 title: "Resume"
 author: Matt Herman
 # jobtitle: "Chief Brewer, Arthur Guinness & Son"
-address: "39 Huntville Road · Katonah, NY 10536"
+address: "6 First Avenue · Montpelier, VT 05602"
 fontawesome: yes
 email: mfherman@gmail.com
 # github: mfherman
@@ -34,7 +34,8 @@ Bachelor of Arts in American Studies \hfill May 2006
 
 # EXPERIENCE
 **Council of State Governments Justice Center** \hfill New York, NY  
-*Data Scientist, Research Division* \hfill July 2022 -- present  
+*Data Science Project Manager, Research Division* \hfill July 2023 -- present  
+*Data Scientist, Research Division* \hfill July 2022 -- July 2023  
 
 - Gather and clean criminal justice data from partner agencies and public sources
 - Analyze and model data to generate insights using the R programming language
