@@ -34,8 +34,9 @@ Bachelor of Arts in American Studies \hfill May 2006
 
 # EXPERIENCE
 **Council of State Governments Justice Center** \hfill New York, NY  
-*Data Science Project Manager, Research Division* \hfill July 2023 -- present  
-*Data Scientist, Research Division* \hfill July 2022 -- July 2023  
+*Deputy Program Director, Data Science, Research Division* \hfill July 2024 -- present  
+*Project Manager, Data Science, Research Division* \hfill July 2022 -- June 2024  
+*Data Scientist, Research Division* \hfill July 2021 -- June 2022  
 
 - Gather and clean criminal justice data from partner agencies and public sources
 - Analyze and model data to generate insights using the R programming language
@@ -43,7 +44,7 @@ Bachelor of Arts in American Studies \hfill May 2006
 - Collaborate with CSG State Initiatives Division to develop policy recommendations
 
 **NYC Administration for Children’s Services** \hfill New York, NY  
-*Deputy Director, ChildStat Data* \hfill March 2020 -- July 2022  
+*Deputy Director, ChildStat Data* \hfill March 2020 -- July 2021  
 *Senior Analyst, ChildStat Data* \hfill January 2019 -- March 2020  
 
 - Generated outcome measures and performance indicators for child welfare casework from administrative databases
